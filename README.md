@@ -2,7 +2,7 @@
 
 Este é um projeto simples de um jogo de adivinhação desenvolvido com HTML, CSS e JavaScript. O objetivo do jogador é adivinhar um número secreto gerado aleatoriamente dentro de um intervalo definido.
 
- <!-- Sugestão: grave um GIF do jogo e substitua o link -->
+![Tela inicial do Jogo do Número Secreto](./img/tela-inicial.png)
 
 ## 🚀 Funcionalidades
 
